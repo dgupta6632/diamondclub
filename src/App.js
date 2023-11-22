@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Home from './components/Home';
 
 function App() {
   return (
     <>
-    <h1>Welcome Diamond Club</h1>
+    <Home/>
     </>
   );
 }
